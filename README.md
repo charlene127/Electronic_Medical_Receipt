@@ -5,8 +5,7 @@
 
 ---所有專案所使用到的圖片皆為公司美編人員協助出圖。---
 
-
-一、專案目的:公司提昌節能減碳環保活動，期望減少紙張浪費，提出醫療收據電子化需求。
+一、專案目的:醫院提昌節能減碳環保活動，期望減少紙張浪費，提出醫療收據電子化需求。
 
 二、功能概述:
 
@@ -20,15 +19,15 @@
 
 三、所負責的項目與使用的技術:
 
-1.電子收據Web Service : 使用ASP.NET Web Service、Microsoft.ReportViewer.WebForms元件開發產生電子收據的服務。
+1.電子收據Web Service:使用ASP.NET Web Service、Microsoft.ReportViewer.WebForms元件開發產生電子收據的服務。
 
-2.電子收據發送排程 : 使用ASP.NET WinForm、TinyURL縮址服務開發發送民眾簡訊排程程式。
+2.電子收據發送排程:使用ASP.NET WinForm、TinyURL縮址服務開發發送民眾簡訊排程程式。
 
-3.電子收據刪除排程 : 使用ASP.NET WinForm 開發刪除超過3個月之電子收據排程程式。
+3.電子收據刪除排程:使用ASP.NET WinForm 開發刪除超過3個月之電子收據排程程式。
 
-4.收據列印機 : 使用ASP.NET WinForm、Microsoft.ReportViewer.WebForms元件開發收據列印程式。
+4.收據列印機:使用ASP.NET WinForm、Microsoft.ReportViewer.WebForms元件開發收據列印程式。
 
-5.滿意度調查網頁 : 使用ASP.NET WebForm 開發滿意度調查問卷網頁。
+5.滿意度調查網頁:使用ASP.NET WebForm 開發滿意度調查問卷網頁。
 
-四、專案成果:公司於2018年04月01日起正式取消醫療紙本收據，電子收據系統正式上線，協助公司達到節能減碳之環保目的。
+四、專案成果:醫院於2018年04月01日起正式取消醫療紙本收據，電子收據系統正式上線，協助醫院達到節能減碳之環保目的。
 
