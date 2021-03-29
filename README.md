@@ -21,11 +21,11 @@
 
 1.電子收據Web Service:使用ASP.NET Web Service、Microsoft.ReportViewer.WebForms元件開發產生電子收據的服務。
 
-2.電子收據發送排程:使用ASP.NET WinForm、TinyURL縮址服務開發發送民眾簡訊排程程式。
+2.電子收據發送排程:使用WinForm、TinyURL縮址服務開發發送民眾簡訊排程程式。
 
-3.電子收據刪除排程:使用ASP.NET WinForm 開發刪除超過3個月之電子收據排程程式。
+3.電子收據刪除排程:使用WinForm 開發刪除超過3個月之電子收據排程程式。
 
-4.收據列印機:使用ASP.NET WinForm、Microsoft.ReportViewer.WebForms元件開發收據列印程式。
+4.收據列印機:使用WinForm、Microsoft.ReportViewer.WebForms元件開發收據列印程式。
 
 5.滿意度調查網頁:使用ASP.NET WebForm 開發滿意度調查問卷網頁。
 
